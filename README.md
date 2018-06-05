@@ -1,2 +1,2 @@
-# titanc
-project_one in udacity
+# projects
+projects_ in udacity nondegree
